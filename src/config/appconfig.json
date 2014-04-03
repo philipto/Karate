@@ -1,0 +1,8 @@
+{
+        "kara": {
+        "port": "8080",
+        "publicDir": "public",
+        "appPackage": "karate",
+        "appClass": "karate.Application"
+    }
+}

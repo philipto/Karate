@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="kara-189">
+    <CLASSES>
+      <root url="file://$KARA_HOME$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Kotlin/kara.orig/src/KaraLib/src" />
+    </SOURCES>
+    <jarDirectory url="file://$KARA_HOME$" recursive="false" />
+  </library>
+</component>

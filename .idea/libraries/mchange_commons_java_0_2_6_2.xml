@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mchange-commons-java-0.2.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Exposed-master-super/lib/mchange-commons-java-0.2.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/Exposed-master-super/lib/postgresql-9.2-1002.jdbc4.jar!/" />
+      <root url="jar://$USER_HOME$/Exposed-master-super/lib/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

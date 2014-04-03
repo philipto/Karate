@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Karate">
+    <output-path>$PROJECT_DIR$/out/artifacts/Karate</output-path>
+    <root id="archive" name="Karate.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Karate" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="exposed" />
+          <element id="library" level="project" name="kara-189" />
+          <element id="library" level="project" name="KotlinJavaRuntime" />
+          <element id="library" level="project" name="c3p0-0.9.5-pre5" />
+          <element id="library" level="project" name="mchange-commons-java-0.2.6.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Karate/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3136201753">
+    <data-source source="LOCAL" name="PostgreSQL - invent@localhost" uuid="6a8485c0-04ab-4c22-a78b-a7d4ce916b1d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/invent</jdbc-url>
+      <user-name>rusin</user-name>
+      <user-password>dfdbdfcbdfd0dfdddfd9dfd2</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

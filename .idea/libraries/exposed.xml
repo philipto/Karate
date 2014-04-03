@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="exposed">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Kotlin/exposed/exposed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Kotlin/exposed/kotlin" />
+    </SOURCES>
+  </library>
+</component>
